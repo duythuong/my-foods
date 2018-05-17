@@ -1,0 +1,75 @@
+
+.t{ 
+	margin-bottom: 12px;
+}
+.u{
+	border-bottom: 1px solid #ccc;
+}
+.tieude{
+   text-align: center;
+   font-size: 35px;
+   font-family: Avqest;
+}
+.tieude1{
+	text-align: right;
+	margin-top: 7px;
+
+}
+.tieude2{
+	text-align: left;
+	margin-top: 7px;
+}
+.hinh{
+	text-align: center;
+}
+.bor{
+	padding-top: 12px;
+	padding-bottom: 12px;
+	/*border: 1px solid #ccc;*/
+}
+.bor a{
+	text-decoration: none;
+}
+.hinh2{
+	text-align: center;
+}
+.c{
+	text-align: center;
+}
+.c p{
+	font-family: Avqest;
+	font-size: 27px;
+}
+.c1{
+	text-align: center;
+}
+.c1 p{
+	font-size: 15px;
+}
+.tq{
+	margin-right: 12px;
+}
+/*.qw{
+	position: relative;
+    left: 10px;
+}*/
+.bor h4{
+	font-family: Avqest;
+	font-size: 27px;
+}
+.bor a{
+	color: #000000;
+}
+.bor a:hover{
+	text-decoration: none;
+}
+.tf {
+    line-height: 46px;
+}
+.t a{
+	color: #000000;
+}
+.t a:hover{
+    color: #000000;
+    text-decoration: none;
+}
